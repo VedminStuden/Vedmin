@@ -118,7 +118,7 @@
   "gridUnits": "ft",
   "primaryTokenAttribute": "health",  
   "url": "https://github.com/VedminStuden/Vedmin",
-  "manifest": "https://github.com/VedminStuden/Vedmin/system.json",
-  "download": "https://github.com/jrommann/knave/archive/1.9.0.zip",
+  "manifest": "https://github.com/VedminStuden/Vedmin/blob/main/system.json",
+  "download": "https://github.com/VedminStuden/Vedmin/blob/main/knaves%20of%20qud%20-1.9.0.zip",
   "license": "LICENSE.txt"
 }
